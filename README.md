@@ -1,4 +1,4 @@
-# klg-go-learning
+# kld-go-learning
 
 1. Меня зовут Егор, мне 31, я из Калининграда. Фулстек разработчик, но больше бэкенд. В разработке 2.5 года. 
    Стек: .Net MVC/Core, JavaScript, Link2db, EntityFramework, MsSql.
